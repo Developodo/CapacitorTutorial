@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">CapacitorTutorial</string>
+    <string name="title_activity_main">CapacitorTutorial</string>
+    <string name="package_name">com.developodo.CapacitorTutorial</string>
+    <string name="custom_url_scheme">com.developodo.CapacitorTutorial</string>
+    <string name="server_client_id">868791458785-1mbjft5qg1nl4uvu65qvoteno99kaa63.apps.googleusercontent.com</string>
+</resources>

@@ -1,0 +1,16 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-title>
+      Blank
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true">
+ <ion-button (click)="googleSignup()">Sign in</ion-button>
+ <ion-card>
+   <ion-card-content>
+     {{ userInfo | json}}
+   </ion-card-content>
+ </ion-card>
+</ion-content>

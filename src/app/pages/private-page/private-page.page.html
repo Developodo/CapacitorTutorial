@@ -1,0 +1,11 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>privatePage</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <ion-button *ngIf="this.isAndroid" (click)="listen()">Listen</ion-button>
+  <ion-button (click)="pic()">Fotografiar</ion-button>
+  <ion-img *ngIf="this.image" [src]="this.image"></ion-img>
+</ion-content>

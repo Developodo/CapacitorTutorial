@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "868791458785",
+    "project_id": "capacitortutorial-bbd7f",
+    "storage_bucket": "capacitortutorial-bbd7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868791458785:android:33de56246b5e4f5f5a90a0",
+        "android_client_info": {
+          "package_name": "com.developodo.CapacitorTutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "868791458785-piamhmhjn4s48qatddn4mp06t27kb0u9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.developodo.CapacitorTutorial",
+            "certificate_hash": "bc45024c18bda05fc3278e4de81b7fbf003ac69a"
+          }
+        },
+        {
+          "client_id": "868791458785-1mbjft5qg1nl4uvu65qvoteno99kaa63.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJuVPThBRB4hrJ8EyUUULEjejnrjAiDnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "868791458785-1mbjft5qg1nl4uvu65qvoteno99kaa63.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
